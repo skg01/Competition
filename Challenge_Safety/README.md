@@ -1,1 +1,1 @@
-Please refer Documentation under Report folder
+Please refer Documentation file under Report folder (to run the project)
